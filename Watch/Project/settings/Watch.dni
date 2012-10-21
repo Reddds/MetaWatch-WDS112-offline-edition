@@ -1,0 +1,87 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[State Storage]
+Control Register=771
+[Sequencer]
+Control Register=0
+NextState0=0
+NextState1=0
+[Action Register]
+Break=7
+State Storage=1
+[DebugChecksum]
+Checksum=-446341188
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+
+[array_types]
+Fmt0=unsigned char[25]	1	0
+[watch_formats]
+Fmt0={W}0:LcdRow	3	0
+Fmt1={W}0:Options	1	0
+Fmt2={W}0:curMonth	3	0
+Fmt3={W}0:curYear	3	0
+Fmt4={W}0:days	3	0
+Fmt5={W}0:startDay	3	0
+Fmt6={W}0:startHour	3	0
+Fmt7={W}0:startMin	3	0
+[Breakpoints]
+Count=0
+[FET]
+Clock mode=14
+Extended Clock mode=-1
+Secure Password=
+Extended Clock Control Enable=1
+Advanced Extended Clock Control=1
+Emulation mode=0
+Free running=0
+Shutting Down=3
+[Memory Dump]
+Start address=
+Lenghth=
+Address info=0
+Format=0
+Dump registers=0
+PC=0
+SP=0
+SR=0
+all registers=0
+File name=
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Aliases]
+A0=_ "Z:\Code\andrew-ah\Stack\Application\MsgHandler.c" ""
+A1=_ "Z:\Code\andrew-ah\Stack\Application\RfTest.c" ""
+A2=_ "Z:\Code\andrew-ah\Stack\Application\Wrapper.c" ""
+A3=_ "Z:\Code\andrew-ah\Stack\Bluetopia\btpskrnl\BTPSKRNL.c" ""
+A4=_ "Z:\Code\andrew-ah\Stack\Bluetopia\btpskrnl\sprintf.c" ""
+A5=_ "Z:\Code\andrew-ah\Stack\Bluetopia\btpsvend\BTPSVEND.c" ""
+A6=_ "Z:\Code\andrew-ah\Stack\Bluetopia\hcitrans\EHCILL.c" ""
+A7=_ "Z:\Code\andrew-ah\Stack\Bluetopia\hcitrans\HCITRANS.c" ""
+A8=_ "Z:\Code\andrew-ah\Stack\Hardware\hal_bluetooth_uart.c" ""
+A9=_ "Z:\Code\andrew-ah\Stack\Hardware\hal_crc.c" ""
+Count=10
+SuppressDialog=0
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=

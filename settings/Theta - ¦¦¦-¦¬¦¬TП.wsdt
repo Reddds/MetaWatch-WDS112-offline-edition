@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Watch/Digital</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>222</Column0><Column1>40</Column1><Column2>40</Column2><Column3>40</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1392</ColumnWidth1><ColumnWidth2>371</ColumnWidth2><ColumnWidth3>92</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>28</ColumnWidth0><ColumnWidth1>1849</ColumnWidth1></Debug-Log><SourceBrowser/><Find-in-Files><ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-9364-22825</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Watch</ExpandedNode><ExpandedNode>Watch/Application</ExpandedNode><ExpandedNode>Watch/Hardware</ExpandedNode><ExpandedNode>Watch/OSAL</ExpandedNode><ExpandedNode>Watch/Output</ExpandedNode></NodeDict></Session>
+          </Tab>
+        <Tab><Identity>TabID-9421-20711</Identity><TabName>Source Browser</TabName><Factory>SourceBrowser</Factory><Session><TypeFilter>2147483647</TypeFilter><FileFilter>1</FileFilter></Session></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-5182-22903</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-28114-14425</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-8229-23189</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\Background.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>320</YPos2><SelStart2>9547</SelStart2><SelEnd2>9547</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\MessageQueues.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\Background.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>30</YPos2><SelStart2>1954</SelStart2><SelEnd2>1954</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\OneSecondTimers.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\Messages.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>686</YPos2><SelStart2>21128</SelStart2><SelEnd2>21148</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\MessageQueues.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>342</YPos2><SelStart2>19732</SelStart2><SelEnd2>19732</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\LcdDisplay.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>449</YPos2><SelStart2>12530</SelStart2><SelEnd2>12530</SelEnd2></Tab><ActiveTab>6</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\Icons.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>101</YPos2><SelStart2>3073</SelStart2><SelEnd2>3073</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\Icons.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>26</YPos2><SelStart2>1474</SelStart2><SelEnd2>1484</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>51</YPos2><SelStart2>2161</SelStart2><SelEnd2>2161</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\Display.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>115</YPos2><SelStart2>4006</SelStart2><SelEnd2>4019</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Stack\Api\Wrapper.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>42</YPos2><SelStart2>1768</SelStart2><SelEnd2>1785</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\LcdDisplay.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>48</YPos2><SelStart2>2755</SelStart2><SelEnd2>2761</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\FreeRTOS\portable\MSP430F5438\port.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\SerialRam.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>425</YPos2><SelStart2>12960</SelStart2><SelEnd2>12960</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\Display.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>105</YPos2><SelStart2>4380</SelStart2><SelEnd2>4380</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\Fonts.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\Fonts.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>92</YPos2><SelStart2>1346</SelStart2><SelEnd2>1346</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\OSAL\NvIds.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>57</YPos2><SelStart2>2392</SelStart2><SelEnd2>2392</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Hardware\hal_rtc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>43</YPos2><SelStart2>1796</SelStart2><SelEnd2>1796</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\Calendar.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>295</SelStart2><SelEnd2>295</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Hardware\hal_calibration.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>93</YPos2><SelStart2>2621</SelStart2><SelEnd2>2621</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Application\Calendar.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>177</SelStart2><SelEnd2>177</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Watch\Hardware\hal_rtc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>41</YPos2><SelStart2>3613</SelStart2><SelEnd2>3613</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0125b110><key>iaridepm.enu1</key></Toolbar-0125b110></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>582</Bottom><Right>343</Right><x>-2</x><y>-2</y><xscreen>963</xscreen><yscreen>280</yscreen><sizeHorzCX>537388</sizeHorzCX><sizeHorzCY>300429</sizeHorzCY><sizeVertCX>192522</sizeVertCX><sizeVertCY>626609</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>302</Bottom><Right>1794</Right><x>-2</x><y>-2</y><xscreen>1796</xscreen><yscreen>304</yscreen><sizeHorzCX>1002232</sizeHorzCX><sizeHorzCY>326180</sizeHorzCY><sizeVertCX>537388</sizeVertCX><sizeVertCY>300429</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
